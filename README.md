@@ -2,13 +2,13 @@
 
 ### Admin :
 
-username : admin
-password : doublebang
+**username :** admin
+**password :** doublebang
 
 ### Non-Admin :
 
-**username** : xXromainXx
-**password** : lvl30leBo$$
+**username :**  xXromainXx
+**password :**  lvl30leBo$$
 
 # Utilisation :
 ## En tant qu'administrateur vous pouvez :
