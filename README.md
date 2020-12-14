@@ -30,6 +30,6 @@ Pour supprimer un capteur, appuyer une première fois sur le bouton "Poubelle", 
 Vous pouvez ensuite cliquer sur le capteur à supprimer, et il disparaitra.
 Ce bouton est un "Switch", vous pouvez donc supprimer plusieurs capteurs à la suite.
 
-##En tant qu'utilisateur (Et administrateur) vous pouvez :
+## En tant qu'utilisateur (Et administrateur) vous pouvez :
 
 Regarder.
