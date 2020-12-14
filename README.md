@@ -1,6 +1,6 @@
 # Information sur le serveur :
 
-##La racine du serveur doit être le dossier "public"
+## La racine du serveur doit être le dossier "public"
 
 # Comptes existants dans la base de données :
 
